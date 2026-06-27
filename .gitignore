@@ -1,0 +1,10 @@
+*.cs3
+debug_cmp.py
+verify_plugin.py
+*.py
+local.properties
+*.iml
+.idea/
+.vscode/
+build/
+.gradle/
