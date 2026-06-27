@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/itboyhan/MovieBoxProvider/refs/heads/builds/MovieBoxProvider.cs3",
+        "url": "https://raw.githubusercontent.com/itboyhan/MovieBoxProvider/builds/MovieBoxProvider.cs3",
         "status": 1,
         "version": 26,
         "name": "MovieBoxProvider",
@@ -16,7 +16,7 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/itboyhan/MovieBoxProvider/refs/heads/builds/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/itboyhan/MovieBoxProvider/builds/icon.png",
         "apiVersion": 1,
         "fileHash": "sha256-61c126e7de28b43c36f0e889db2c92b650be4757f91036c06d21d0e4fd25c7e2"
     }
